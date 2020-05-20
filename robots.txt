@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /
+
+User-agent: Mediapartners-Google*
+Disallow: /
+
+User-agent: googlemediabot*
+Disallow: /
+
+User-agent: ia_archiver
+Disallow:
+
+User-agent: Mediapartners-Google*
+Disallow: /
+
+User-agent: googlemediabot*
+Disallow: /
